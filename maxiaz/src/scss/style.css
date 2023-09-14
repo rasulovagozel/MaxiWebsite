@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  padding: 0 0 30px 0;
+  background-color: rgb(250, 248, 248);
+}
+body .col-lg-12 {
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+body .col-lg-12 h1 {
+  font-size: 17px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 1px;
+}
+body .col-lg-12 .forms {
+  width: 750px;
+  background-color: rgb(82, 211, 138);
+  padding: 20px 50px;
+  border-radius: 5px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.1);
+  visibility: hidden;
+  transition: transform 0.4s, top 0.1s;
+}
+body .col-lg-12 .forms form {
+  padding: 30px 50px;
+  font-family: "Poppins", sans-serif;
+}
+body .col-lg-12 .forms form label {
+  font-size: 1rem;
+  font-weight: 500;
+  color: white;
+  margin: 15px 0;
+}
+body .col-lg-12 .forms form input, body .col-lg-12 .forms form button {
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #616e7c;
+  width: 100%;
+  padding: 10px;
+}
+body .col-lg-12 .forms form input:focus, body .col-lg-12 .forms form button:focus {
+  outline: none;
+}
+body .col-lg-12 .forms form select {
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #616e7c;
+  width: 100%;
+  padding: 10px;
+}
+body .col-lg-12 .forms form button {
+  margin-top: 20px;
+  border: none;
+}
+body .col-lg-12 .open-popup {
+  visibility: visible;
+  top: 50%;
+  transform: translate(-50%, -50%) scale(1);
+}
+body .row .col-xl-3 {
+  margin-top: 50px;
+  font-family: "Poppins", sans-serif;
+}
+body .row .col-xl-3 .telephonE {
+  padding: 30px 23px 80px 23px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+body .row .col-xl-3 .telephonE .icons {
+  float: right;
+  color: #85898B;
+}
+body .row .col-xl-3 .telephonE .image {
+  width: 150px;
+  height: 250px;
+  margin: 40px auto 0 auto;
+}
+body .row .col-xl-3 .telephonE .image img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  cursor: pointer;
+}
+body .row .col-xl-3 .telephonE .sale {
+  margin-top: 20px;
+}
+body .row .col-xl-3 .telephonE .sale a {
+  font-size: 11px;
+  text-decoration: none;
+  padding: 1px 7px;
+}
+body .row .col-xl-3 .telephonE .sale a:nth-child(1) {
+  background-color: rgb(253, 106, 0);
+  color: white;
+}
+body .row .col-xl-3 .telephonE .sale a:last-child {
+  background-color: rgba(37, 174, 96, 0.1);
+  color: rgb(37, 174, 96);
+}
+body .row .col-xl-3 .telephonE .text {
+  margin-top: 30px;
+}
+body .row .col-xl-3 .telephonE .text p {
+  font-size: 11px;
+  line-height: 15px;
+  color: #000000;
+  font-weight: 500;
+}
+body .row .col-xl-3 .telephonE .stars {
+  margin-top: 10px;
+}
+body .row .col-xl-3 .telephonE .stars i {
+  font-size: 15px;
+  color: #eaeaea;
+  cursor: pointer;
+}
+body .row .col-xl-3 .telephonE .stars a {
+  font-size: 14px;
+  text-decoration: none;
+  color: #85898B;
+}
+body .row .col-xl-3 .telephonE .money {
+  margin-top: 20px;
+}
+body .row .col-xl-3 .telephonE .money span {
+  font-size: 22px;
+  font-weight: 600;
+}
+body .row .col-xl-3 .telephonE .money span i {
+  font-size: 13px;
+  font-weight: 700;
+}
+body .row .col-xl-3 .telephonE button {
+  margin: 0 auto;
+  margin-top: 30px;
+}
+body .col-xl-4 {
+  font-family: "Poppins", sans-serif;
+  margin-top: 20px;
+}
+body .col-xl-4 .blocks {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+body .col-xl-4 .blocks img {
+  width: 100%;
+  height: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+body .col-xl-4 .blocks .footer {
+  padding: 10px 20px 40px 20px;
+}
+body .col-xl-4 .blocks .footer .texts {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+body .col-xl-4 .blocks .footer .texts a {
+  font-size: 13px;
+  text-decoration: none;
+  padding: 4px 7px;
+  color: black;
+  background-color: rgb(251, 230, 155);
+}
+body .col-xl-4 .blocks .footer .texts span {
+  font-size: 13px;
+  color: #616e7c;
+}
+body .col-xl-4 .blocks .footer p {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 700;
+  color: black;
+  line-height: 23px;
+}
+
+#search_name {
+  width: 80%;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+}
+
+#searchHeader {
+  font-size: 22px;
+}/*# sourceMappingURL=style.css.map */

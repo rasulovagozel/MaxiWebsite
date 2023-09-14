@@ -1,0 +1,63 @@
+{
+  "telephone": [
+    {
+      "id": 1,
+      "image": "https://maxi.az/upload/resize_cache/webp/iblock/7b0/kturtgdjoq1yof5xqs3o54n3b4ztczoe/268x300q100-telefon_phone_13_pro_max_128gb_alpine_green_detail.webp",
+      "stok": "STOKDA VAR",
+      "text": "Telefon iPhone 13 Pro Max 128GB Alpine Green",
+      "money": 2999,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "image": "https://maxi.az/upload/resize_cache/webp/iblock/a9a/l6ymf1j5naglks9axf6c0dohd4lvvxjz/268x300q100-portativ_akustika_jbl_partybox_710_detail.webp",
+      "stok": "STOKDA VAR",
+      "text": "Portativ akustika JBL PartyBox 710",
+      "money": 1899,
+      "rating": 2
+    },
+    {
+      "id": 3,
+      "image": "https://maxi.az/upload/resize_cache/webp/iblock/2bb/wetc58qxajj93oyo020x0epd51pmplpq/268x300q100-telefon_samsung_sm_a346_5g_6gb_128gb_black_detail.webp",
+      "stok": "STOKDA VAR",
+      "text": "Telefon Samsung SM-A346 5G 6GB 128GB Black",
+      "money": 699
+    },
+    {
+      "id": "6fa5fce8-6bfa-4851-a22f-02604b46526b",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSFRISEhISEhEREhISEhIRGBESEREVGBQaGhgUGhgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NzEBDAwMEA8PGBIRGjEhGB0xPzE0NDQ/ND80NDExNDE0ND8xMTE9MTQxMUAxNDQ/NDoxPzgxNDM/NDQxMTQxQDE/Nf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAgMEBQYBBwj/xABIEAABAwIACAkHCQYHAQAAAAABAAIDBBEFBhIhMUFRcQcTIjJhgZGxsjQ1UnSSocEUFSNTYnJzgtEWQkOz0uEzVGODk6LwJP/EABgBAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAIREBAQACAgICAwEAAAAAAAAAAAECERIxA0EhMiJRYVL/2gAMAwEAAhEDEQA/APZkIQgEIUeuqBFHJK7mxxvkO5rS49yDFY+Y+ihPEU4ElSRdxdnZCCM1xrdrtq17F5HX4y1dQS6WqmdfUHlrBua2wChVtS6olkleS58j3PedpJ1dZsmZZ2x6ru7T1dCrQV8of6b8/S5c45/pP7XJluEDrBaNuYhTo5roI/Gu9J/a5dEjvTd7Tv1UzKSJIgc4GfWBr/ugjF7vSf7Tv1TU1UWkNGW+QkANDnnOdAIBuT0J29iSc4aC7eALj4LS8GmD2u42teA5+WY4yRzTYF7x0nKAvqs7agr6bFXCcoyi1sAOcCRzGOt90XcOtPfsRhH/ADEX/JJ/QvSH1KZfVJxHiVdNPDI+J8jw+NzmOs4kXBtmOxMfOU31r+0rb4z4punmfPA9gMhDnseSLOtYlpAOY7CqP9ian0ofad+izVFJ85TfWv7SlfOM/wBZJ2lXIxMqRodF7Tv6V39j6r04vad/SmqKX5xn0cZJfeUn5ym+tf2lXrcT6oHKD4r7cp39K5+xVSf3ofad/St1RXYMkqaiV",
+      "stok": "true",
+      "text": "WorkShop",
+      "money": "324324"
+    },
+    {
+      "id": "7276aabf-9ee3-4f06-9c77-af4908839db4",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgSEhIYGRISGBgZGBgSGBgYGRkYGBgaGhgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QGhISGjQhISsxNDQxNDcxMTQxNDQ0MT80NDE0NDQ0NjQ0MTE0NDQ0NDExNDQ/NDQ0NDE3NDQxNDY0NP/AABEIAQYAwQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAAECAwQGBwj/xABJEAACAQICBAgIDAUEAgMBAAABAgADEQQhBhIxQQU0UWFxc4GyEyIyUpGSobEHFBckM0JTVGJywdEWI4LS8JOiwuFDY0RksxX/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHhEBAQEAAgIDAQAAAAAAAAAAAAERAjESIUFRYXH/2gAMAwEAAhEDEQA/APYMTiFpq1SowVEF2Y7AJwfCWmFaoSMMBTp7ndQzsOVVOQHTJaf8IF6iYUHxEUVKg85iSEQ82RM43HY9aaGo5sudhva209GzpuJKC74+qTepjK5v/wCzVHoUC0qXE53+M1r2t9K9sua9hOIqaVkN5AVeQ+VboXZ2kzp+BMdRxItRqfzVBJpVBZyBtKHY9uTbCioxf/2av+q0kMUPvNX/AFWlKIu2whDgzgw1ydRVAGV2A28gk1cQp1NbZiKv+q0vWkftq3+q0o4R4I8G1j4p3NTy9myV4LEsG8HU8obCN43ESJjVWUIpZq9YKNv81pwPDWnLK5TDVKptldqr6vszPZbtl/wj8MMoGHRra3lW5N/puB6eWefooA55qQHX0yx52V3HQzfqbyP8Y8IfeqnrQLeMTNYg0dM+EBtxdT1o38a4/wC+VPTBtHAVKo1kQlRfxjZQeYE7TzCZzgqg/wDG3qmMBr+Ncf8AfKnpjfxrj/vdT1oF+Kv5jeqZIYep9m3qmQGP41x/3up60X8a4/73U9aBz",
+      "stok": "false",
+      "text": "WorkShop",
+      "money": "324324"
+    },
+    {
+      "id": "81c2f0e5-0eb5-4c9f-8fcd-9f8b94da1a14",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSFRISEhISEhEREhISEhIRGBESEREVGBQaGhgUGhgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NzEBDAwMEA8PGBIRGjEhGB0xPzE0NDQ/ND80NDExNDE0ND8xMTE9MTQxMUAxNDQ/NDoxPzgxNDM/NDQxMTQxQDE/Nf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAgMEBQYBBwj/xABIEAABAwIACAkHCQYHAQAAAAABAAIDBBEFBhIhMUFRcQcTIjJhgZGxsjQ1UnSSocEUFSNTYnJzgtEWQkOz0uEzVGODk6LwJP/EABgBAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAIREBAQACAgICAwEAAAAAAAAAAAECERIxA0EhMiJRYVL/2gAMAwEAAhEDEQA/APZkIQgEIUeuqBFHJK7mxxvkO5rS49yDFY+Y+ihPEU4ElSRdxdnZCCM1xrdrtq17F5HX4y1dQS6WqmdfUHlrBua2wChVtS6olkleS58j3PedpJ1dZsmZZ2x6ru7T1dCrQV8of6b8/S5c45/pP7XJluEDrBaNuYhTo5roI/Gu9J/a5dEjvTd7Tv1UzKSJIgc4GfWBr/ugjF7vSf7Tv1TU1UWkNGW+QkANDnnOdAIBuT0J29iSc4aC7eALj4LS8GmD2u42teA5+WY4yRzTYF7x0nKAvqs7agr6bFXCcoyi1sAOcCRzGOt90XcOtPfsRhH/ADEX/JJ/QvSH1KZfVJxHiVdNPDI+J8jw+NzmOs4kXBtmOxMfOU31r+0rb4z4punmfPA9gMhDnseSLOtYlpAOY7CqP9ian0ofad+izVFJ85TfWv7SlfOM/wBZJ2lXIxMqRodF7Tv6V39j6r04vad/SmqKX5xn0cZJfeUn5ym+tf2lXrcT6oHKD4r7cp39K5+xVSf3ofad/St1RXYMkqaiV",
+      "stok": "true",
+      "text": "WorkShop",
+      "money": "324324"
+    },
+    {
+      "id": "2aa9de98-ba3b-4b61-8ae9-a37999392e1f",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSFRISEhISEhEREhISEhIRGBESEREVGBQaGhgUGhgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NzEBDAwMEA8PGBIRGjEhGB0xPzE0NDQ/ND80NDExNDE0ND8xMTE9MTQxMUAxNDQ/NDoxPzgxNDM/NDQxMTQxQDE/Nf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAgMEBQYBBwj/xABIEAABAwIACAkHCQYHAQAAAAABAAIDBBEFBhIhMUFRcQcTIjJhgZGxsjQ1UnSSocEUFSNTYnJzgtEWQkOz0uEzVGODk6LwJP/EABgBAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAIREBAQACAgICAwEAAAAAAAAAAAECERIxA0EhMiJRYVL/2gAMAwEAAhEDEQA/APZkIQgEIUeuqBFHJK7mxxvkO5rS49yDFY+Y+ihPEU4ElSRdxdnZCCM1xrdrtq17F5HX4y1dQS6WqmdfUHlrBua2wChVtS6olkleS58j3PedpJ1dZsmZZ2x6ru7T1dCrQV8of6b8/S5c45/pP7XJluEDrBaNuYhTo5roI/Gu9J/a5dEjvTd7Tv1UzKSJIgc4GfWBr/ugjF7vSf7Tv1TU1UWkNGW+QkANDnnOdAIBuT0J29iSc4aC7eALj4LS8GmD2u42teA5+WY4yRzTYF7x0nKAvqs7agr6bFXCcoyi1sAOcCRzGOt90XcOtPfsRhH/ADEX/JJ/QvSH1KZfVJxHiVdNPDI+J8jw+NzmOs4kXBtmOxMfOU31r+0rb4z4punmfPA9gMhDnseSLOtYlpAOY7CqP9ian0ofad+izVFJ85TfWv7SlfOM/wBZJ2lXIxMqRodF7Tv6V39j6r04vad/SmqKX5xn0cZJfeUn5ym+tf2lXrcT6oHKD4r7cp39K5+xVSf3ofad/St1RXYMkqaiV",
+      "stok": true,
+      "text": "WorkShop",
+      "money": "324324"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "image": "https://maxi.az/upload/resize_cache/webp/iblock/1d2/2rt83qjhybmbluafah51srsjxdbvwl5x/500x500q100-hype_ru_black_friday_2017_deals.webp",
+      "time": "31.08.2022 10:03:54",
+      "text": "Məktəb üçün hansı noutbuku seçmək lazımdır?"
+    }
+  ]
+}

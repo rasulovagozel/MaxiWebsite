@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="../node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="sweetalert2.min.css" />
+    <link rel="stylesheet" href="../src/css/reset.css" />
+    <link rel="stylesheet" href="../src/css/style.css" />
+  </head>
+  <body>
+    <main>
+     <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                <h1>ƏN YAXŞI SATIŞLAR</h1>
+                <button class="btn btn-primary" onclick="OpenForm()" type="submit">Add new</button>
+                <div class="forms" id="popup">
+                    <form action="" id="form">
+                      <label for="image">İmage URL</label>
+                      <input type="text" id="image" name="image" placeholder="Enter the image url">
+                      <label for="stok">Stock</label>
+                      <input type="text" id="stok" name="stok" placeholder="Enter the stock name">
+                      <label for="header">Text</label>
+                      <input type="text" id="text" name="header" placeholder="Enter the information">
+                      <label for="money">Money</label>
+                      <input type="text" id="money" name="money" placeholder="Enter the money">
+                      <button type="button" class="btn btn-primary" onclick="CloseForm()" id="adding">Add</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="row telephone"></div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+            <h1>BLOQ</h1>
+            <button class="btn btn-primary" onclick="Openform()" type="submit">
+              Add new
+            </button>
+            <div class="forms" id="popup">
+              <form action="" id="form">
+                <label for="image">İmage URL</label>
+                <input
+                  type="text"
+                  id="image"
+                  name="image"
+                  placeholder="Enter the image url"
+                />
+                <label for="date">DATE</label>
+                <input
+                  type="text"
+                  id="date"
+                  name="date"
+                  placeholder="Enter the date"
+                />
+                <label for="header">Text</label>
+                <input
+                  type="text"
+                  id="text"
+                  name="header"
+                  placeholder="Enter the information"
+                />
+                <button
+                  type="button"
+                  class="btn btn-primary"
+                  onclick="closeForm()"
+                  id="adding"
+                >
+                  Add
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="row blog"></div>
+      </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="sweetalert2.all.min.js"></script>
+    <script src="sweetalert2.min.js"></script>
+    <script
+      src="https://kit.fontawesome.com/82d8f57187.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="../src/js/script.js"></script>
+  </body>
+</html>
